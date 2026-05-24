@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+
 #include <windows.h>
 #include <GL/glut.h>
 #include <cmath>
