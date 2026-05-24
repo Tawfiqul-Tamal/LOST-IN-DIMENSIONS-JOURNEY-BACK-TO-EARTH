@@ -99,5 +99,14 @@ lost-in-dimensions/
 > Computer Graphics Lab Project  
 > Department of Computer Science & Engineering
 
+## 📜 Copyright
+
+© 2026 Md. Tawfiqul Islam Tamal.  
+All rights reserved.  
+
+This project *Lost in Dimensions: Journey Back to Earth* was developed as part of the Computer Graphics Lab course in the Department of Computer Science & Engineering, AIUB.  
+The source code and assets are provided for educational purposes. Redistribution or use outside academic contexts requires prior permission.
+
 ## 📜 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
