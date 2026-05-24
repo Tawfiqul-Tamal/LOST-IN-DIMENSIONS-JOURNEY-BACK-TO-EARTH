@@ -6,10 +6,10 @@ A 2D side-scrolling platformer game built with **C++ and OpenGL (GLUT)** as a Co
 
 | Level | Role |
 |------|------|
-| Level 0 | Level 0 – Intro Screen, Character Movement |
-| Level 1 | Level 1 – Bridge Scene, Coins, Portals, Rain |
-| Level 2 | Level 2 – Ocean Scene, Fire Obstacle, Physics |
-| Level 3 | Level 3 – Dimension Scene, Zombie Enemy |
+| Level 0 |  Intro Screen, Character Movement |
+| Level 1 |  Bridge Scene, Coins, Portals, Rain |
+| Level 2 |  Ocean Scene, Fire Obstacle, Physics |
+| Level 3 |  Dimension Scene, Zombie Enemy |
 
 ---
 
